@@ -1,56 +1,55 @@
 codeofconduct
 =============
 
-####Code for America's Code of Conduct
+####Kodeks ponašanja zajednice Code for America
 
-The Code for America community expects that Code for America network activities and events:
+Zajednica Code for America od svojih mrežnih aktivnosti i događanja očekuje sljedeće: 
 
-1. Are a safe and respectful environment for all participants.
-2. Are a place where people are free to fully express their identities.
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-4. Don’t assume everyone has the same context, and encourage questions.
-5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-6. Encourage members and participants to listen as much as they speak.
-7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
-8. Prioritize access for and input from those who are traditionally excluded from the civic process.
-9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups. 
-10. Actively involve community groups and those with subject matter expertise in the decision-making process.
-11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-12. Provide an environment where people are free from discrimination or harassment.
+1. Sigurno i uljudno okruženje za sve sudionike. 
+2. Mjesto gdje ljudi mogu slobodno izraziti svoj identitet u potpunosti. 
+3. Uvažavanje tuđih vrijednosti. Svačije ideje, vještine i doprinosi su vrijedni.
+4. Nemojte pretpostavljati da svatko ima isti kontekst, potaknite pitanja.
+5. Pronađite način da ljudi budu produktivniji zahvaljujući svojim vještinama (bilo tehničke ili ne) i energijom. Koristite jezik kao na primjer "da / i", a ne "ne / ali."
+6. Potičite članove i sudionike da slušaju isto koliko i govore.
+7. Nastojte izgraditi alate koji su otvorena i besplatna tehnologija za javnu uporabu. Prednost imaju one aktivnosti čiji je cilj poticanje javne uporabe, a ne osobne koristi.
+8. Neka prednost imaju oni koji su tradicionalno isključeni iz građanskog postupka.
+9. Radite na tome da je zajednica dobro zastupljena u planiranju, dizajnu, i provedbi civilne tehnologije. To uključuje poticanje sudjelovanja žena, manjina i tradicionalno marginaliziranih skupina.
+10. Aktivno uključite društvene skupine i one s predmetnom stručnosti u procesu donošenja odluka.
+11. Osigurajte da odnosi i razgovori između članova zajednice, osoblja lokalne vlade i partnera zajednice budu puni poštivanja, sudjelovanja i učinkovitosi.
+12. Osigurajte okruženje bez diskriminacije ili uznemiravanja.
 
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America events or network activities.
+Code for America zadržava pravo zamoliti bilo koga tko krši ta pravila da ne sudjeluje u događajima ili aktivnostima Code for America.
 
-####Code for America's Anti-Harassment Policy
+####Politika nenasilja u Code for America
 
-This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+Ova politika nenasilja temelji se na <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">primjeru politike</a> Geek Feminism wiki čiji su autori inicijativa Ada i drugi volonteri.
 
-This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
+Ova politika temelji se na nekoliko drugih primjera, uključujući Ohio LinuxFest protiv nasilja, kojeg su napisali Esther Filderman i Bet Lynn Eicher, te Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith i Donna Benjamin poopćile su pravila i dodale materijale. Mnogi članovi LinuxChix, Geek Feminism i druge grupe pridonijeli su ovom radu.
 
 * * * 
 
-All Code for America events and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+Na sve događaje, osoblje, predavače i sudionike Code for America primijenjuje se politika nenasilja, priložena u nastavku.
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+Osim što uređuje vlastite događaje ovom politikom, Code for America će posuditi svoj brand i financirati samo one grupe koje prakticiraju politiku nenasilja među svojim polaznicima. Za informacije o tome kako ponuditi politiku nenasilja svojoj grupi, pogledajte <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">ovaj vodič</a>.
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America events or network activities, at the discretion of the event organizers.
+Code for America posvećen je poticanju nenasilja za sve bez obzira na spol, identitet i izražavanje, spolnu orijentaciju, invalidnost, fizički izgled, građu tijela, rasu, dob ili religiju. Mi ne toleriramo zlostavljanje osoblja, izlagača i sudionika u bilo kojem obliku. Seksualni jezik i prikaz nisu prikladni za bilo koji događaj ili aktivnost Code for America, uključujući i razgovore. Svatko tko prekrši ta pravila može biti isključen s događaja ili manifestacija Code for America, sukladno procjeni organizatora događaja.
 
-Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
+Uznemiravanje uključuje, ali nije ograničeno na: uvredljive verbalne ili pisane primjedbe vezane uz spol, identitet i izražavanje, spolnu orijentaciju, invalidnost, fizički izgled, građu tijela, rasu, religiju; seksualne slike u javnosti; namjerno zastrašivanje; praćenje; nasilno fotografiranje ili snimanje; prekidanje razgovora ili drugih događaja; neprimjeren fizički kontakt; nepoželjna seksualna pozornost; neopravdano isključenje i ophođenje s visoka. 
 
-If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America events and network activities. 
+Ukoliko se sudionik ponaša na uznemirujuć način, organizatori događaja mogu poduzeti bilo kakvu mjeru koju smatraju prikladnom, uključujući upozorenje ili izgon iz događaja i djelatnosti Code for America.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at [EVENT ORGANIZER EMAIL AND PHONE NUMBER]. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+Ako vas maltretiraju, primijetili ste da nekoga maltretiraju, ili imate bilo kakvih drugih pitanja, odmah se obratite članu osoblja. Možete ih kontaktirati na [ELEKTRONIČKU POŠTU I BROJ TELEFONA ORGANIZATORA]. Osoblje će rado pomoći sudionicima u kontaktiranju hotelske sigurnosti ili lokalne policije, osigurati pratnju, ili na neki drugi način pomoći onima koji su iskusili nasilje da se osjećaju sigurno za vrijeme trajanja manifestacije.
 
-If you cannot reach an event organizer and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
+Ako ne možete kontaktirati organizatora i/ili je slučaj nužde, nazovite 911 i/ili se povucite iz situacije.
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+Također se možete obratiti Code for America o uznemiravanju na safespace@codeforamerica.org i slobodno upotrijebite predložak e-mail poruke u nastavku. Osoblje Code for America priznaje da nije uvijek u položaju ocijeniti danu situaciju zbog broja manifestacija i činjenice da naš tim nije uvijek prisutan. Međutim, nadamo se da pružanjem ovih smjernica uspostavljamo zajednicu koja se drži tih vrijednosti i može pružiti okruženje koje pruža dobrodošlicu svima.
 
-We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
+Cijenimo vaše sudjelovanje i nadamo se da ovim očekivanjima svi možemo uživati u okruženju bez nasilja.
 
-####Email Template for Anti-Harassment Reporting
+####Predložak za prijavu uznemiravanja
 
-SUBJECT: Safe Space alert at [EVENT NAME]
+PREDMET: Dojava protiv sigurnog mjesta na [NAZIV DOGAĐAJA]
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+Pišem zbog uznemiravanja na manifestaciji zajednice Code for America, (naziv, mjesto, datum događaja).
 
-You can reach me at (CONTACT INFO). Thank you.
-
+Možete me kontaktirati na (KONTAKT INFORMACIJE). Hvala.
