@@ -42,7 +42,7 @@ Ako vas maltretiraju, primijetili ste da nekoga maltretiraju, ili imate bilo kak
 
 Ako ne možete kontaktirati organizatora i/ili je slučaj nužde, nazovite 112 i/ili se povucite iz situacije.
 
-Također se možete obratiti Programiraj za Hrvatsku o uznemiravanju na sigurnomjesto@codeforcroatia.org i slobodno upotrijebite predložak e-mail poruke u nastavku. Osoblje Programiraj za Hrvatsku priznaje da nije uvijek u položaju ocijeniti danu situaciju zbog broja manifestacija i činjenice da naš tim nije uvijek prisutan. Međutim, nadamo se da pružanjem ovih smjernica uspostavljamo zajednicu koja se drži tih vrijednosti i može pružiti okruženje koje pruža dobrodošlicu svima.
+Također se možete obratiti Programiraj za Hrvatsku o uznemiravanju na safespace@codeforcroatia.org i slobodno upotrijebite predložak e-mail poruke u nastavku. Osoblje Programiraj za Hrvatsku priznaje da nije uvijek u položaju ocijeniti danu situaciju zbog broja manifestacija i činjenice da naš tim nije uvijek prisutan. Međutim, nadamo se da pružanjem ovih smjernica uspostavljamo zajednicu koja se drži tih vrijednosti i može pružiti okruženje koje pruža dobrodošlicu svima.
 
 Cijenimo vaše sudjelovanje i nadamo se da ovim očekivanjima svi možemo uživati u okruženju bez nasilja.
 
