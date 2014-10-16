@@ -1,4 +1,4 @@
-kodeksponasanja
+Kodeks ponašanja
 =============
 
 ####Kodeks ponašanja zajednice Programiraj za Hrvatsku
