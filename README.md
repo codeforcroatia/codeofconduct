@@ -46,10 +46,10 @@ Također se možete obratiti Programiraj za Hrvatsku o uznemiravanju na safespac
 
 Cijenimo vaše sudjelovanje i nadamo se da ovim očekivanjima svi možemo uživati u okruženju bez nasilja.
 
-#### Predložak za prijavu uznemiravanja
-
-PREDMET: Dojava protiv sigurnog mjesta na [NAZIV DOGAĐAJA]
-
-Pišem zbog uznemiravanja na manifestaciji zajednice Programiraj za Hrvatsku, (naziv, mjesto, datum događaja).
-
-Možete me kontaktirati na (KONTAKT INFORMACIJE). Hvala.
+> #### Predložak za prijavu uznemiravanja
+>
+> PREDMET: Dojava protiv sigurnog mjesta na [NAZIV DOGAĐAJA]
+> 
+> Pišem zbog uznemiravanja na manifestaciji zajednice Programiraj za Hrvatsku, (naziv, mjesto, datum događaja).
+>
+> Možete me kontaktirati na (KONTAKT INFORMACIJE). Hvala.
