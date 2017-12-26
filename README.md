@@ -20,7 +20,7 @@ Zajednica Programiraj za Hrvatsku od svojih mrežnih aktivnosti i događanja oč
 
 Programiraj za Hrvatsku zadržava pravo zamoliti bilo koga tko krši ta pravila da ne sudjeluje u događajima ili aktivnostima Programiraj za Hrvatsku.
 
-####Politika nenasilja u Programiraj za Hrvatsku
+#### Politika nenasilja u Programiraj za Hrvatsku
 
 Ova politika nenasilja temelji se na <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">primjeru politike</a> Geek Feminism wiki čiji su autori inicijativa Ada i drugi volonteri.
 
