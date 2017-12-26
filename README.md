@@ -1,7 +1,7 @@
 Kodeks ponašanja
 =============
 
-####Kodeks ponašanja zajednice Programiraj za Hrvatsku
+#### Kodeks ponašanja zajednice Programiraj za Hrvatsku
 
 Zajednica Programiraj za Hrvatsku od svojih mrežnih aktivnosti i događanja očekuje sljedeće: 
 
@@ -46,7 +46,7 @@ Također se možete obratiti Programiraj za Hrvatsku o uznemiravanju na safespac
 
 Cijenimo vaše sudjelovanje i nadamo se da ovim očekivanjima svi možemo uživati u okruženju bez nasilja.
 
-####Predložak za prijavu uznemiravanja
+#### Predložak za prijavu uznemiravanja
 
 PREDMET: Dojava protiv sigurnog mjesta na [NAZIV DOGAĐAJA]
 
